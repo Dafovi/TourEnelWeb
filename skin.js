@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.10/18007
 // Filename: impop.ggsk
-// Generated 2021-01-21T03:52:11
+// Generated 2021-01-21T03:58:07
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_image_popup', 2, false);

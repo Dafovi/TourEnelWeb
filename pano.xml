@@ -2161,7 +2161,7 @@
       </polyhotspot>
     </hotspots>
     <media>
-      <image stretch="1.000" height="300" clickmode="0" rotz="92.000" id="Element01" handcursor="0" roty="-17.000" fov="8.560" pan="-50.080" tilt="-1.620" rotx="-17.000" width="300">
+      <image stretch="1.000" height="300" clickmode="0" rotz="92.000" id="Element01" handcursor="0" roty="-17.000" fov="6.857" pan="-50.080" tilt="-1.620" rotx="-17.000" width="300">
         <source url="media/Botón-Recorrido.png"/>
       </image>
       <image stretch="1.000" height="300" clickmode="0" rotz="-143.000" id="Element02" handcursor="0" roty="-51.000" fov="6.138" pan="-292.740" tilt="-11.570" rotx="-43.000" width="300">
@@ -2191,7 +2191,7 @@
       <label enabled="1" textcolor="0x000000" background="1" backgroundalpha="1" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textalpha="1" width="180" border="1"/>
       <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
       <polyhotspot url="{node16}" description="" id="Poly01" title="Entrada al cuarto de maquinas" target="-106.0/0.4/66.2">
-        <polystring>-82.97/-5.67|-81.27/-11.5|-91.62/-12.9|-90.93/-6.19</polystring>
+        <polystring>-82.97/-5.67|-79.43/-21.76|-95.68/-23.35|-90.93/-6.19</polystring>
       </polyhotspot>
       <polyhotspot url="{node56}" description="" id="Poly02" title="" target="95.5/0.0/48.3">
         <polystring>-294.08/-11.28|-284.02/-15.91|-310.54/-21.13|-319.36/-16.85|-300.61/-11.22|-300.37/-11.18</polystring>
@@ -2199,7 +2199,7 @@
       <hotspot distance3D="388.622" url="images/Tablero-auxiliar-AZUL.png" use3D="0" description="" id="Point01" customimage="media/Botón-Información.png" fov="10" customimagewidth="68" title="" skinid="ht_image" pan="-203.26" target="" tilt="1.61" customimageheight="68"/>
     </hotspots>
     <media>
-      <image stretch="1.000" height="300" clickmode="0" rotz="-89.000" id="Element01" handcursor="0" roty="-47.000" fov="7.560" pan="-86.870" tilt="-9.470" rotx="-4.000" width="300">
+      <image stretch="1.000" height="300" clickmode="0" rotz="-89.000" id="Element01" handcursor="0" roty="-47.000" fov="7.560" pan="-86.720" tilt="-16.680" rotx="-4.000" width="300">
         <source url="media/Botón-Recorrido.png"/>
       </image>
       <image stretch="0.980" height="300" clickmode="0" rotz="-160.000" id="Element02" handcursor="0" roty="-39.000" fov="7.740" pan="-301.790" tilt="-14.770" rotx="-60.000" width="300">
@@ -2297,17 +2297,17 @@
       <label enabled="1" textcolor="0x000000" background="1" backgroundalpha="1" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textalpha="1" width="180" border="1"/>
       <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
       <polyhotspot url="{node65}" description="" id="Poly01" title="" target="-37.8/-3.0/64.5">
-        <polystring>-229.35/-7.06|-225.21/-12.21|-243.35/-10.97|-236.95/-6.7</polystring>
+        <polystring>-226.4/-0.7|-222.12/-18.93|-245.44/-24.15|-250.88/-2.83</polystring>
       </polyhotspot>
       <polyhotspot url="{node57}" description="" id="Poly02" title="" target="0.1/2.4/64.2">
-        <polystring>-111.64/-14.93|-112.26/-25.31|-129.3/-23.17|-126.52/-13.21</polystring>
+        <polystring>-141.57/-1.28|-142.46/-25.23|-159.84/-17.92|-156.74/-1.36</polystring>
       </polyhotspot>
     </hotspots>
     <media>
-      <image stretch="1.000" height="300" clickmode="0" rotz="-88.000" id="Element01" handcursor="0" roty="-64.000" fov="11.000" pan="-233.940" tilt="-10.100" rotx="0.000" width="300">
+      <image stretch="1.000" height="300" clickmode="0" rotz="-89.000" id="Element01" handcursor="0" roty="-171.000" fov="11.511" pan="-233.680" tilt="-10.220" rotx="0.000" width="300">
         <source url="media/Botón-Recorrido.png"/>
       </image>
-      <image stretch="1.000" height="300" clickmode="0" rotz="-111.000" id="Element02" handcursor="0" roty="-47.000" fov="8.220" pan="-120.880" tilt="-17.430" rotx="-28.000" width="300">
+      <image stretch="1.000" height="300" clickmode="0" rotz="-178.000" id="Element02" handcursor="0" roty="11.000" fov="12.477" pan="-147.520" tilt="-7.340" rotx="21.000" width="300">
         <source url="media/Botón-Recorrido.png"/>
       </image>
     </media>
@@ -2334,11 +2334,11 @@
       <label enabled="1" textcolor="0x000000" background="1" backgroundalpha="1" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textalpha="1" width="180" border="1"/>
       <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
       <polyhotspot url="{node64}" description="" id="Poly01" title="" target="-93.5/-3.2/64.2">
-        <polystring>-87.78/-23.32|-76.89/-27.5|-105.92/-27.66|-96.89/-23.89</polystring>
+        <polystring>-69.93/2.88|-66.06/-14.25|-85.57/-17.09|-84.47/-0.69</polystring>
       </polyhotspot>
     </hotspots>
     <media>
-      <image stretch="1.000" height="300" clickmode="0" rotz="93.000" id="Element01" handcursor="0" roty="-127.000" fov="7.400" pan="-92.230" tilt="-26.460" rotx="4.000" width="300">
+      <image stretch="1.000" height="300" clickmode="0" rotz="-2.000" id="Element01" handcursor="0" roty="-42.000" fov="12.679" pan="-79.880" tilt="-9.020" rotx="-9.000" width="300">
         <source url="media/Botón-Recorrido.png"/>
       </image>
     </media>
